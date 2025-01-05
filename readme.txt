@@ -1,4 +1,4 @@
-Free Download Source Code "Car Rental Management System"
+Download Source Code Unpam Rental Car"
 
 FIRST Download
 
@@ -12,7 +12,7 @@ FIRST Download
 
 5. Extract the file and copy "car_rental" folder
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs,)
 
 7. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
@@ -26,7 +26,3 @@ FIRST Download
 Admin
 user: admin
 pass: admin123
-
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
