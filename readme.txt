@@ -1,6 +1,6 @@
-Download Source Code Unpam Rental Car"
+Download Source Code "Unpam Rental Car"
 
-FIRST Download
+Pertama Download:
 
 1.XAMPP
 
@@ -10,19 +10,18 @@ FIRST Download
 
 4. Download the zip file/ download winrar
 
-5. Extract the file and copy "car_rental" folder
+5. Extract file lalu copy "car_rental" folder
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs,)
+6.Paste didalam root directory/ dimana kamu menginstall xammp local disk C: drive D: drive E: paste: (for xampp/htdocs,)
 
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
+7. Buka PHPMyAdmin (http://localhost/phpmyadmin)
 
-8. Create a database with name car_rental_db
+8. Buat sebuah database dengan nama car_rental_db
 
-6. Import car_rental_db.sql file(given inside the zip package in SQL file folder)
+6. Import car_rental_db.sql file (yang diberikan di dalam paket zip dalam folder file SQL)
 
-7.Run the script http:/car_rental
+7.Running script http:/car_rental
 **LOGIN DETAILS** 
-
 Admin
 user: admin
 pass: admin123
